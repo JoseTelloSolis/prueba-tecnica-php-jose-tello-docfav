@@ -1,0 +1,5 @@
+<testsuites>
+  <testsuite name="Test config">
+    <directory suffix="Test.php">tests</directory>
+  </testsuite>
+</testsuites>
